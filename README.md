@@ -6,7 +6,7 @@ const me = {
     currentlyLearning: ["JavaScript", "Node.js", "Backend Development"],
     interests: ["Coding", "Gaming", "Building Cool Stuff"],
     goals: ["Master JavaScript", "Build real projects",],
-    funFact: "I started my journey with coding 1 year ago, when i was 13 years old"
+    funFact: "I started my journey with coding 1 year ago, when I was 13 years old"
 };
 
 console.log(me);
