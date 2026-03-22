@@ -1,5 +1,6 @@
 # Hey, I'm Aleksander 👋
 ```rust
+#[derive(Debug)]
 struct Me {
     age: u8,
     location: &'static str,
@@ -12,7 +13,7 @@ struct Me {
 fn main() {
     let me = Me {
         age: 14,
-        location: "Poland 🇵🇱",
+        location: "WAW, Poland 🇵🇱",
         currently_learning: &["Rust", "Systems Programming", "Network Internals"],
         interests: &["Low-level coding", "Internet infrastructure", "Building things that matter"],
         goals: &[
