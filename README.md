@@ -10,7 +10,7 @@ fn main() {
         "Understand how the internet works at a low level",
         "Build the systems that keep the internet fast and safe",
     ];
-    let fun_fact = "Started coding at 13 and immediately wanted to know how everything works under the hood";
+    let fun_fact = "Poland is NOT filled with femboys";
 
     println!("Age: {}", age);
     println!("Location: {}", location);
@@ -20,11 +20,6 @@ fn main() {
     println!("Fun fact: {}", fun_fact);
 }
 ```
-
-## 🚀 What I'm Working On
-- Mastering Rust — ownership, lifetimes, and the type system
-- Learning how the internet works at a low level — TCP/IP, DNS, TLS, HTTP
-- Understanding how companies like Cloudflare build infrastructure at scale
 
 ## 💻 Tech I'm Learning
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -41,11 +36,3 @@ loop {
     fix();
 }
 ```
-
-## 🔭 Long-term Goals
-- Write production Rust at a company like Cloudflare
-- Build systems that protect and power the internet
-
-## 📫 Let's Connect
-- GitHub: You're already here 😎
-- Learning in public and documenting my journey
